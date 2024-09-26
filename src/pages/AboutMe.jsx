@@ -1,12 +1,12 @@
 import { Box, Heading, Text, Flex, Image } from '@chakra-ui/react';
-import headshot from '../assets/headshot2.png';
+//import headshot from '../assets/headshot2.png';
 
 export default function AboutMe() {
   return (
     <Box p={6} bg="brand.50" borderRadius="md" boxShadow="lg" mt={6} maxW='800px' mx='auto'>
         <Flex direction={{ base: 'column', md: 'row' }} align="center" justify="space-between">
         <Image 
-              src={headshot} 
+              src={'src/assets/Headshot2.png'} 
               alt="Portrait of Travis Phillips" 
               boxSize="220px" 
               borderRadius="full" 
