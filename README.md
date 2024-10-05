@@ -19,7 +19,7 @@ The following is a simple portfolio built in React that caps off and summarizes 
 `npm i` to install dependencies; `npm run dev` to run on your local machine.
 
 ## Usage
-View the deployed application [here](https://hannahdevportfolio.netlify.app/).
+View the deployed application [here]().
 
 This portfolio serves as a personal and professional showcase of my work. Feel free to navigate through the different sections to explore my projects, learn about my skills, and get in touch. Whether you are a potential collaborator, employer, or fellow developer, I hope you find my work inspiring and informative!
 
