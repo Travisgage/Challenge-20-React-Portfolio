@@ -41,10 +41,5 @@ export default function Nav() {
           Contact
         </Button>
         </Flex>
-
-
-
-
-
       );
     }
