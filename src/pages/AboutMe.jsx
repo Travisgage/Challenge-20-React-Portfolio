@@ -1,5 +1,5 @@
 import { Box, Heading, Text, Flex, Image } from '@chakra-ui/react';
-import headshot from 'src/assets/images/headshot2.png';
+import headshot from '../assets/images/headshot2.png';
 
 export default function AboutMe() {
   return (
