@@ -1,12 +1,6 @@
 import { Box, Text } from '@chakra-ui/react';
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-//import jsIcon from '..assets/icons8-javascript.svg';
-//import reactIcon from '..assets/icons8-react.svg';
-//import nodeIcon from '..assets/icons8-node-js.svg';
-//import mongoDBIcon from '..assets/icons8-mongo-db-48.png';
-//import postgreSQLIcon from '..assets/icons8-postgresql.svg';
-//import gitIcon from '..assets/icons8-git-logo.svg';
 
 
 export default function TechStacks() {
@@ -80,7 +74,6 @@ export default function TechStacks() {
                 fontSize: "20px",
         }
       }
-
     return (
         <Box >
             <Text style={skillHolder.textBox}>{skill}</Text>
