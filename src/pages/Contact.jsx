@@ -52,7 +52,7 @@ const Contact = () => {
                     <VStack alignItems="flex-start" spacing={3}>
                       <Button
                         as="a"
-                        href="tel:+12537976890"
+                        href="tel:+18016282869"
                         size="md"
                         height="48px"
                         width="100%"
@@ -64,7 +64,7 @@ const Contact = () => {
                       </Button>
                       <Button
                         as="a"
-                        href="mailto:hannahpsmith94@gmail.com"
+                        href="mailto:travisgagephillips@gmail.com"
                         size="md"
                         height="48px"
                         width="100%"
@@ -141,5 +141,4 @@ const Contact = () => {
       </Flex>
   );
 };
-
 export default Contact
