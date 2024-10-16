@@ -3,11 +3,6 @@
   line-height: 1.5;
   font-weight: 400;
 
-  @font-face {
-    font-family: Mitashi-Tech;
-    src: url('./assets/Mitashi-Tech.otf');
-  }
-
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #202a35;
