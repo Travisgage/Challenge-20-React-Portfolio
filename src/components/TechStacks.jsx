@@ -9,32 +9,32 @@ export default function TechStacks() {
     const icons = [
         {
             iconTitle: 'jsIcon',
-            imageSrc: 'src/assets/images/icons8-javascript.svg',
+            imageSrc: './images/icons8-javascript.svg',
             iconDescription: 'JavaScript icon',
         },
         {
             iconTitle: 'reactIcon',
-            imageSrc: 'src/assets/images/icons8-react.svg',
+            imageSrc: './images/icons8-react.svg',
             iconDescription: 'React icon',
         },
         {
             iconTitle: 'nodeIcon',
-            imageSrc: 'src/assets/images/icons8-node-js.svg',
+            imageSrc: './images/icons8-node-js.svg',
             iconDescription: 'Node.js icon',
         },
         {
             iconTitle: 'mongoDBIcon',
-            imageSrc: 'src/assets/images/icons8-mongo-db-48.png',
+            imageSrc: './images/icons8-mongo-db-48.png',
             iconDescription: 'MongoDB icon',
         },
         {
             iconTitle: 'postgreSQLIcon',
-            imageSrc: 'src/assets/images/icons8-postgresql.svg',
+            imageSrc: './images/icons8-postgresql.svg',
             iconDescription: 'PostgreSQL icon',
         },
         {
             iconTitle: 'gitIcon',
-            imageSrc: 'src/assets/images/icons8-git-logo.svg',
+            imageSrc: './images/icons8-git-logo.svg',
             iconDescription: 'Git icon',
         },
     ];
