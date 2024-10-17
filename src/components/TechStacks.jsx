@@ -2,7 +2,6 @@ import { Box, Text } from '@chakra-ui/react';
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 
-
 export default function TechStacks() {
     // useState to display names of hovered icons
     const [skill, setSkill] = useState('');
