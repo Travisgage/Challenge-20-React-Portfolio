@@ -1,7 +1,6 @@
 import { Link as RouterLink } from 'react-router-dom';
-import { Box, Flex, Link, Menu, MenuButton, MenuList, MenuItem, Button, textDecoration, border } from '@chakra-ui/react';
+import { Flex, Button } from '@chakra-ui/react';
 import { AddIcon } from '@chakra-ui/icons';
-import { Global } from '@emotion/react';
 
 export default function Nav() {
   const buttonStyles = {
