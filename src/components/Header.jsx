@@ -1,6 +1,7 @@
 import { Box, Flex, Image } from '@chakra-ui/react';
 import Nav from './Navigation';
 import HS from '../assets/images/PC-logo2.svg'
+
 export default function Header() {
 
 
