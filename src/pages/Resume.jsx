@@ -2,6 +2,7 @@ import React from 'react';
 import { Flex,Container, Heading, Text, Button, Box } from '@chakra-ui/react';
 import TechStacks from '../components/TechStacks';
 import { motion } from 'framer-motion';
+import travisResume from ../assets/resume-Travis-Phillips-Junior-Dev.pdf;
 
 export default function Resume() {
     const styles= {
@@ -29,7 +30,7 @@ export default function Resume() {
                     <Text fontFamily={"monospace"} p={5}color='var(--seasalt)'>Icons by <a href='https://icons8.com/'>Icons8</a></Text>
                     <motion.div whileHover={{ scale: 1.2 }}>
                     <Button style={styles.customButton} m={3} p={2} monospace-label='Download CV'>
-                    <a href='src/assets/Resume-Travis-Phillips-Junior-Dev.pdf' >Download CV</a> 
+                    <a href={travisResume} >Download CV</a> 
                     </Button>
                     </motion.div>
                 </Box>
