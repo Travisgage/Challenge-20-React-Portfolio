@@ -6,7 +6,7 @@ export default function TechStacks() {
     // useState to display names of hovered icons
     const [skill, setSkill] = useState('');
     // Icons Array
-    const icons = [
+    /*const icons = [
         {
             iconTitle: 'jsIcon',
             imageSrc: './images/icons8-javascript.svg',
@@ -37,7 +37,7 @@ export default function TechStacks() {
             imageSrc: './images/icons8-git-logo.svg',
             iconDescription: 'Git icon',
         },
-    ];
+    ];*/
 
     // Icon animation
     const listVariants = {
